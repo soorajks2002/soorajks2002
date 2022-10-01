@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops Tools**
 
-- 👨‍💻 All of my projects are available at [soorajks2002.github.io](soorajks2002.github.io)
+- 👨‍💻 All of my projects are available at [soorajks2002.github.io](https://soorajks2002.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
