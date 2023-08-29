@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, Computer Vision**
 
-- 🌱 I’m currently learning **Devops Tools**
+- 🌱 I’m currently learning **DevOps / MLOps**
 
 - 👨‍💻 All of my projects are available at [soorajks2002.github.io](https://soorajks2002.github.io/)
 
